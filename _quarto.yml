@@ -3,13 +3,12 @@ project:
   output-dir: docs
 
 book:
-  title: "Armein Z. R. Langi"
+  title: "Winata Tristan"
   subtitle: "Portfolio Asesmen II-2100 KIPP"
-  author: "131902360 Armein Z R Langi"
-  date: "9/15/2025"
+  author: "18222061 Winata Tristan"
+  date: "10/13/2025"
   chapters:
     - index.qmd
-    - intro.qmd
     - My_Song_for_You/index.qmd
     - My_Stories_for_You/index.qmd
     - My_Shapes/index.qmd

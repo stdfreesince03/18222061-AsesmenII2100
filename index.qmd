@@ -1,10 +1,24 @@
-# Selamat Berjumpa {.unnumbered}
+# Halo, Selamat Datang {.unnumbered}
 
-![About Me](images/AZRL.png){width=950%}
+![About Me](images/foto_diri.png){width=50%}
 
-Armein Z R Langi adalah Guru Besar di Sekolah Teknik Elektro dan Informatika ITB, dosen ITB sejak Desember 1987, mantan Rektor Universitas Kristen Maranatha, 1 Maret 2016 s/d 29 Februari 2020, mantan Kepala Pusat Penelitian Teknologi Informasi dan Komunikasi (PP-TIK) ITB November 2005 s/d Maret 2010, dan Sekretaris MWA ITB Mei 2010-Jan 2011.
+Nama saya adalah Winata Tristan, Mahasiswa jurusan Sistem Teknologi Informasi di Institut Teknologi Bandung 
 
-Lahir di Tomohon 1962 dari pasangan Manado dan Sunda. Saat ini tinggal di Bandung, menikah dengan Ina dan dikaruniai empat anak. Ayah dari Gladys, Kezia, Andria, dan Marco.
+Saya lahir di Tulungagung pada tanggal 25 Mei 2004
 
-Sharing pikiran singkat ada di blog <https://azrl.wordpress.com>. Facebppk: armein_langi
+![My Hero](images/drose.jpg){width=50%}
 
+Hobi saya adalah bermain basket. Sejak kecil, salah satu pahlawan saya adalah Derrick Rose dari Bulls. 
+Bukan hanya permainannya yang luar biasa, namun juga karakternya yang "no drama" tapi fokus dan memberikan 100% bila sudah di lapangan.
+
+Karakter itulah yang saya coba setiap hari untuk terapkan di kehidupan saya, berjuang tanpa mengeluh, tanpa drama, dan memberikan 100% dari saya untuk mencapai tujuan saya.
+
+![My Dream and Inspirations](images/inspiration.png){width=50%}
+
+Suatu hari, di saat saya memiliki uang yang cukup setidaknya untuk diri saya sendiri, mimpi saya adalah untuk explore dunia.
+Menjadi bebas, melihat apa saja yang ada di dunia ini, dan yang paling penting adalah untuk mengambil resiko.
+
+Mimpi ini berasal dari inspirasi-inspirasi saya seperti Alex Honnold, Marc-Andre Leclerc, tokoh-tokoh free soloist yang setiap hari benar-benar "hidup" karena setiap hari berani mengambil resiko, dan benar-benar menikmati dengan penuh, kehidupan dan dunia ini.
+Juga dari salah salah satu film favorit saya yang cukup berdampak kepada saya, The Secret Life of Walter Mitty.
+
+Di umur saya yang 21 tahun ini, saya belum merasa sungguh-sungguh "dewasa". Saya belum merasa benar-benar "hidup" dan "bebas".Mungkin di suatu hari, di saat kesempatan datang untuk mimpi ini dapat terjadi, saya akan melompat dan mengambil kesempatan itu.
