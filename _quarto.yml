@@ -13,7 +13,6 @@ book:
     - My_Stories_for_You/index.qmd
     - My_Shapes/index.qmd
     - My_Personal_Reviews/index.qmd
-    - summary.qmd
     - references.qmd
 
 bibliography: references.bib
