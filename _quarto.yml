@@ -2,6 +2,10 @@ project:
   type: book
   output-dir: docs
 
+website:
+  site-url: "https://stdfreesince03.github.io/18222061-AsesmenII2100"
+  base-url: "/18222061-AsesmenII2100"
+
 book:
   title: "Winata Tristan"
   subtitle: "Portfolio Asesmen II-2100 KIPP"
