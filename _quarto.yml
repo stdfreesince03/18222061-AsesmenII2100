@@ -13,11 +13,6 @@ book:
     - My_Stories_for_You/index.qmd
     - My_Shapes/index.qmd
     - My_Personal_Reviews/index.qmd
-    - My_Concepts/index.qmd
-    - My_Opinions/index.qmd
-    - My_Innovations/index.qmd
-    - My_Knowledge/index.qmd
-    - My_Professional_Reviews/index.qmd
     - summary.qmd
     - references.qmd
 
@@ -28,6 +23,29 @@ format:
     theme:
       - cosmo
       - brand
+    include-in-header:
+      text: |
+        <style>
+          /* justify body text only (not navbar/sidebar) */
+          main.content p { 
+            text-align: justify; 
+            text-justify: inter-word; 
+            hyphens: auto;
+          }
+          main.content li {
+            text-align: justify; 
+            text-justify: inter-word; 
+            hyphens: auto;
+          }
+          main.content img {
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+        }
+        .quarto-figure, figure {
+          text-align: center;
+        }
+        </style>
   pdf:
     documentclass: scrreprt
 
