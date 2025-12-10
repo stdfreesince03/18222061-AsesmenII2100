@@ -1,7 +1,65 @@
-# My Knowledge
+# UAS-4 My Knowledge
+Membaca AI Secara Kritis: Pengetahuan Dasar bagi Masyarakat di Tengah Krisis Iklim
 
-Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain
-1) saya tulis [makalah sebagai bahan utama](Rekomendasi%20Presentasi%20Efektif(Contoh%20Makalah).pdf)
-2) lalu saya buat [transkrip ucapan lisan](Contoh%20Transkrip%20Presentasi.pdf)
-3) kemudian saya kembangkan [slide pendukung trnsskrip](Rekomendasi%20Presentasi%20(Contoh%20Slides).pdf)
-4) lalu saya memproduksivideo audio visual {{< video https://youtu.be/ZbghfMvnPZc>}} {{< video https://youtu.be/ZbghfMvnPZc>}}
+<p>
+Pada bagian ini, saya membagikan pengetahuan yang menurut saya penting bagi masyarakat untuk memahami peran AI dalam konteks keberlanjutan. Banyak orang mengenal AI terutama sebagai teknologi canggih yang “pasti membantu” perubahan iklim, padahal hubungan AI–lingkungan jauh lebih kompleks. Pengetahuan yang jelas dan netral menjadi kunci untuk menghindari kesalahpahaman, terutama ketika narasi publik sering kali terlalu optimistis atau disederhanakan.
+</p>
+
+## I. Bagaimana AI Mengonsumsi Energi dan Menghasilkan Emisi
+<p>
+Secara teknis, AI modern—terutama model berskala besar—membutuhkan energi dalam jumlah besar. Setiap proses pelatihan, penyimpanan, dan inferensi melibatkan ribuan server yang berjalan terus-menerus di pusat data. Energi yang digunakan tidak hanya untuk komputasi, tetapi juga pendinginan, jaringan, dan infrastruktur pendukung.
+</p>
+
+<p>
+Pengetahuan penting yang perlu dipahami masyarakat adalah bahwa <strong>setiap penggunaan AI memiliki jejak energi</strong>. Makin besar modelnya, makin besar pula emisinya. Ini tidak berarti AI harus dihentikan, tetapi masyarakat perlu menyadari bahwa teknologi ini tidak “gratis” dari sisi lingkungan.
+</p>
+
+## II. Efisiensi Teknis ≠ Keberlanjutan Sistemik
+<p>
+AI sering dipuji karena dapat meningkatkan efisiensi—mengoptimalkan logistik, memprediksi cuaca ekstrem, atau mempercepat riset material. Namun, masyarakat perlu memahami perbedaan antara <strong>efisiensi teknis</strong> dan <strong>keberlanjutan sistemik</strong>.
+</p>
+
+<p>
+Efisiensi hanya membuat proses berjalan lebih cepat. Jika sistem dasarnya tidak berkelanjutan, meningkatkan efisiensinya justru dapat memperkuat dampak negatif. Fenomena ini dikenal sebagai <em>rebound effect</em>: ketika peningkatan efisiensi mendorong peningkatan penggunaan. Pengetahuan ini penting agar masyarakat tidak terbawa narasi bahwa “selama AI memaksimalkan proses, berarti ia membantu planet”.
+</p>
+
+## III. Narasi AI untuk Iklim: Apa yang Perlu Diwaspadai
+<p>
+Dalam beberapa tahun terakhir, muncul banyak klaim bahwa AI akan menjadi pendorong utama solusi iklim. Masyarakat perlu memahami bahwa narasi ini sering kali didorong oleh pasar, investor, dan perusahaan teknologi. Beberapa klaim valid, tetapi sebagian lainnya bersifat promosi.
+</p>
+
+<p>
+Pengetahuan kunci yang perlu diketahui: <strong>AI tidak secara otomatis berpihak pada keberlanjutan</strong>. Arah teknologi ditentukan oleh insentif—dan insentif bisnis tidak selalu selaras dengan batas ekologis. Dengan memahami hal ini, masyarakat dapat menilai klaim “AI-for-Climate” secara kritis.
+</p>
+
+## IV. Pentingnya Tata Kelola (Governance) dalam Penggunaan AI
+<p>
+Satu pengetahuan yang sering terlewat adalah pentingnya tata kelola. Tanpa pembatasan, AI dapat mempercepat konsumsi energi, memperkuat industri intensif karbon, dan mengalihkan dana dari proyek keberlanjutan. Di sinilah konsep tata kelola (governance) menjadi vital.
+</p>
+
+<p>
+Masyarakat perlu memahami bahwa keberlanjutan bukan hanya persoalan teknologi, tetapi persoalan aturan dan pengawasan. Regulasi energi, standar emisi, transparansi penggunaan data center, dan pelaporan dampak iklim merupakan fondasi penting agar AI tidak menjadi sumber kerusakan.
+</p>
+
+## V. Pengetahuan Praktis bagi Masyarakat: Cara Menjadi Pengguna AI yang Bertanggung Jawab
+<p>
+Selain memahami gambaran besar, masyarakat juga dapat berperan langsung melalui langkah kecil:
+</p>
+
+- Menggunakan model AI yang lebih ringan jika tersedia.  
+- Menghindari penggunaan AI untuk tugas-tugas sepele atau berulang.  
+- Mendukung transparansi energi dan jejak karbon dari layanan digital.  
+- Mendorong lembaga publik/privat untuk menyertakan laporan dampak lingkungan AI.  
+
+<p>
+Pengetahuan sederhana ini sangat berarti karena penggunaan AI berskala kecil, jika dilakukan oleh jutaan orang, dapat memengaruhi konsumsi energi secara kolektif.
+</p>
+
+## VI. Penutup: Pengetahuan sebagai Perlindungan Terhadap Optimisme Buta
+<p>
+Kesimpulannya, pengetahuan tentang AI harus bersifat realistis dan kritis. AI memiliki potensi untuk membantu keberlanjutan, tetapi juga risiko untuk memperburuk krisis iklim jika tidak dikendalikan. Dengan memahami bagaimana AI bekerja, apa batasnya, dan bagaimana ia memengaruhi energi serta ekosistem industri, masyarakat dapat membuat keputusan yang lebih bijak dalam menggunakan teknologi ini.
+</p>
+
+<p>
+Di era AI, pengetahuan bukan sekadar informasi—tetapi perlindungan terhadap optimisme buta yang dapat menunda transformasi ekologis yang mendesak.
+</p>
